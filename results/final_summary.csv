@@ -1,0 +1,6 @@
+Loss Function,PSNR (dB),SSIM,LPIPS
+charbonnier,16.14,0.6676,0.2954
+charbonnier_perceptual,18.31,0.7279,0.2099
+charbonnier_perceptual_color_exposure,17.22,0.7003,0.2580
+charbonnier_perceptual_ssim,18.53,0.7449,0.2007
+l1,16.69,0.6821,0.2942
